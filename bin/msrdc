@@ -1,0 +1,2 @@
+#!/bin/sh
+exec open -a "Microsoft Remote Desktop" "$HOME/Documents/Microsoft_Remote_Desktop/$1.rdp"
